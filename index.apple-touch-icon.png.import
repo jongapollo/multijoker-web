@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dcdryv6musut5"
-path="res://.godot/imported/index.apple-touch-icon.png-7cee45f3082db39cd7871cad2c12b5c3.ctex"
+path="res://.godot/imported/index.apple-touch-icon.png-2c4615f996780d9bde294b5c71245977.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://git/multijoker-web/index.apple-touch-icon.png"
-dest_files=["res://.godot/imported/index.apple-touch-icon.png-7cee45f3082db39cd7871cad2c12b5c3.ctex"]
+source_file="res://web_build/index.apple-touch-icon.png"
+dest_files=["res://.godot/imported/index.apple-touch-icon.png-2c4615f996780d9bde294b5c71245977.ctex"]
 
 [params]
 

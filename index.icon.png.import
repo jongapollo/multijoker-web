@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://f25iwn207xj6"
-path="res://.godot/imported/index.icon.png-60646488ca579181cdf4a20e6c3708fe.ctex"
+path="res://.godot/imported/index.icon.png-5e71200894a95e348537a74a1bd4833e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://git/multijoker-web/index.icon.png"
-dest_files=["res://.godot/imported/index.icon.png-60646488ca579181cdf4a20e6c3708fe.ctex"]
+source_file="res://web_build/index.icon.png"
+dest_files=["res://.godot/imported/index.icon.png-5e71200894a95e348537a74a1bd4833e.ctex"]
 
 [params]
 
